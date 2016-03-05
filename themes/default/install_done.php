@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<?php $this->load->view ( 'common/header-meta' ); ?>
-    <title>安装向导 | Powered By StartBBS</title>
+    <title>安装向导 | Powered By CodeMS</title>
 </head>
 <body>
     <div class="container">
@@ -30,7 +30,7 @@
                         </center>
                     </div>
                     <center class="panel-footer">
-                        Copyright © 2014 <a href="http://startbbs.com">StartBBS</a>. All rights reserved.
+                        Copyright © 2014 <a href="http://CodeMS.cn">CodeMS</a>. All rights reserved.
                     </center>
                 </div>
             </div>

@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 <?php $this->load->view ( 'common/header-meta' ); ?>
-    <title>安装向导 | Powered By StartBBS</title>
+    <title>安装向导 | Powered By CodeMS</title>
 </head>
 <body>
     <div class="container">
@@ -88,7 +88,7 @@
                             <div class="form-group">
                                 <label for="email" class="col-md-2 col-md-offset-1 control-label">邮箱</label>
                                 <div class="col-md-7">
-                                    <input type="text" class="form-control" id="email" name="email" value="startbbs@126.com" placeholder="startbbs@126.com">
+                                    <input type="text" class="form-control" id="email" name="email" value="CodeMS@126.com" placeholder="CodeMS@126.com">
                                 </div>
                             </div>
                             <center>
@@ -99,7 +99,7 @@
                         </form>
                     </div>
                     <center class="panel-footer">
-                        Copyright © 2014 <a href="http://startbbs.com">StartBBS</a>. All rights reserved.
+                        Copyright © 2016 <a href="http://CodeMS.cn">CodeMS</a>. All rights reserved.
                     </center>
                 </div>
             </div>

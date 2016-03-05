@@ -304,7 +304,7 @@ class Install extends Install_Controller
      */
     private function _createTables($dbhost, $dbuser, $dbpsw, $dbname, $port,$dbprefix,$con)
     {
-        $sql = file_get_contents(FCPATH.'data/db/startbbs.sql'); 
+        $sql = file_get_contents(FCPATH.'data/db/codems.sql'); 
         $sql = str_replace('stb_', $dbprefix, $sql);
         if(function_exists(@mysqli_multi_query)){
 	        $query=mysqli_multi_query($con,$sql);
